@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy_serializer import SerializerMixin
 
